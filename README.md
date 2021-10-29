@@ -1,2 +1,2 @@
 # moringa-ip-1
-My first moringa project.
+My first moringa project. A portfolip project.
